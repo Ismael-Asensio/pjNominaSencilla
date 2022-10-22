@@ -1,0 +1,15 @@
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\bin\Debug\net6.0\pjNominaSencilla.exe
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\bin\Debug\net6.0\pjNominaSencilla.deps.json
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\bin\Debug\net6.0\pjNominaSencilla.runtimeconfig.json
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\bin\Debug\net6.0\pjNominaSencilla.dll
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\bin\Debug\net6.0\pjNominaSencilla.pdb
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\obj\Debug\net6.0\pjNominaSencilla.csproj.AssemblyReference.cache
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\obj\Debug\net6.0\pjNominaSencilla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\obj\Debug\net6.0\pjNominaSencilla.AssemblyInfoInputs.cache
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\obj\Debug\net6.0\pjNominaSencilla.AssemblyInfo.cs
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\obj\Debug\net6.0\pjNominaSencilla.csproj.CoreCompileInputs.cache
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\obj\Debug\net6.0\pjNominaSencilla.dll
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\obj\Debug\net6.0\refint\pjNominaSencilla.dll
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\obj\Debug\net6.0\pjNominaSencilla.pdb
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\obj\Debug\net6.0\pjNominaSencilla.genruntimeconfig.cache
+C:\Users\Ismael\source\repos\pjNominaSencilla\pjNominaSencilla\obj\Debug\net6.0\ref\pjNominaSencilla.dll
